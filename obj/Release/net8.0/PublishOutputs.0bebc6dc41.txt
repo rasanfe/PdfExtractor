@@ -1,0 +1,5 @@
+C:\proyecto pw2022\Blog\Net8\PdfExtractor\bin\Release\net8.0\publish\PdfExtractor.dll
+C:\proyecto pw2022\Blog\Net8\PdfExtractor\bin\Release\net8.0\publish\PdfExtractor.deps.json
+C:\proyecto pw2022\Blog\Net8\PdfExtractor\bin\Release\net8.0\publish\PdfExtractor.pdb
+C:\proyecto pw2022\Blog\Net8\PdfExtractor\bin\Release\net8.0\publish\BouncyCastle.Cryptography.dll
+C:\proyecto pw2022\Blog\Net8\PdfExtractor\bin\Release\net8.0\publish\itextsharp.dll

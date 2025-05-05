@@ -53,7 +53,7 @@ namespace PdfExtractor
             {
                 PdfReader.unethicalreading = true;
                 PdfReader reader = new PdfReader(inputFile);
-                
+
                 //LocationTextExtractionStrategy strategy = new LocationTextExtractionStrategy();
                 SimpleTextExtractionStrategy strategy = new SimpleTextExtractionStrategy();
 
